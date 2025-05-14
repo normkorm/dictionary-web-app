@@ -8,7 +8,7 @@
 	let value = $state('')
 </script>
 
-<div class="container px-16">
+<div class="px-16 max-w-7xl mx-auto">
 	<header class='flex justify-between items-center my-8'>
 		<BookOutline class="size-8 dark:text-primary-600" />
 		<div class="flex">
